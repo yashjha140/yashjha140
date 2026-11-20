@@ -1,37 +1,81 @@
-# Hi, I'm Yash Jha 👋
+# 👋 Hey, I'm Yash Jha!
 
-### MCA Student | Aspiring Software Developer | Tech Enthusiast
+<div align="center">
 
-I'm an MCA student at Vivekananda Institute of Professional Studies (VIPS), affiliated with GGSIPU, passionate about software development and learning new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=750&lines=MCA+Student+%40+VIPS%2C+GGSIPU;Aspiring+Software+Developer;Full+Stack+Development+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
-- 🎓 MCA Student (2025–2027)
-- 💻 Interested in Software Development and Full Stack Development
-- 🌱 Currently improving my programming and problem-solving skills
-- 🚀 Working on projects like **EduPro AI**
-- 🎯 Goal: To become a skilled software developer and build impactful applications.
+<br/>
 
-### 🛠️ Technical Skills
+<img src="https://komarev.com/ghpvc/?username=yashjha140&label=PROFILE+VIEWS&color=2ECC71&style=for-the-badge" alt="Profile views"/>
 
-- **Languages:** C, JavaScript, Python
-- **Web Technologies:** HTML, CSS
-- **Database:** SQL
-- **Tools:** Git, GitHub, VS Code
+<a href="https://github.com/yashjha140?tab=followers">
+<img src="https://img.shields.io/github/followers/yashjha140?label=Followers&style=for-the-badge&color=2ECC71" alt="Followers"/>
+</a>
 
-### 🚀 Featured Projects
+<a href="https://github.com/yashjha140?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2ECC71?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
-**EduPro AI**
-- An educational project focused on simplifying educational processes.
-- Technologies: Python and web development tools.
-
-### 🎓 Education
-
-- Master of Computer Applications (MCA) – VIPS, GGSIPU (2025–2027)
-- Bachelor of Computer Applications (BCA) – GGSIPU (2025)
-
-### 📫 Connect With Me
-
-- GitHub: [@yashjha140](https://github.com/yashjha140)
+</div>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 🧑‍💻 About Me
+
+I'm Yash Jha, an MCA student and aspiring software developer passionate about technology, programming, and building practical software solutions.
+
+- 🎓 MCA – VIPS, GGSIPU (2025–2027)
+- 🎓 BCA – GGSIPU (2025)
+- 💻 Interested in Software Development and Full Stack Development.
+- 🌱 Currently strengthening my programming and problem-solving skills.
+- 🚀 Building practical projects, including EduPro AI.
+- 🎯 Goal: Become a professional software developer.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,js" />
+
+### Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### Database & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yashjha140/EduPro-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha140&repo=EduPro-AI&theme=merko&hide_border=true" alt="EduPro AI project card"/>
+</a>
+
+</div>
+
+### 🎓 EduPro AI
+
+An educational software project focused on improving educational processes.
+
+- Repository: [EduPro AI](https://github.com/yashjha140/EduPro-AI)
+- Technologies: Add the exact technologies used in your project.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjha140&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha140&layout=compact&theme=merko&
