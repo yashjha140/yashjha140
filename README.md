@@ -4,10 +4,10 @@
 
 <h3>💻 Aspiring Software Developer | MCA Student | Tech Enthusiast</h3>
 
-<img src="https://komarev.com/ghpvc/?username=yashjha140&label=PROFILE+VIEWS&color=00FF7F&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yashjha140&label=PROFILE+VIEWS&color=00FF7F&style=for-the-badge" alt="Profile Views" />
 
 <a href="https://github.com/yashjha140">
-<img src="https://img.shields.io/github/followers/yashjha140?label=Followers&style=for-the-badge&color=00FF7F&logo=github" />
+<img src="https://img.shields.io/github/followers/yashjha140?label=Followers&style=for-the-badge&color=00FF7F&logo=github" alt="GitHub Followers" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 🟢 About Me
 
-Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming and software development.
+Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming, and software development.
 
 - 🎓 Pursuing MCA at **VIPS, GGSIPU (2025–2027)**
 - 🎓 BCA Graduate from GGSIPU (2025)
@@ -32,19 +32,19 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,js" />
+<img src="https://skillicons.dev/icons?i=c,python,js" alt="C, Python and JavaScript" />
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
 </p>
 
 ### Database & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code" />
 </p>
 
 ---
@@ -53,20 +53,24 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">🎓 EduPro AI</h3>
 <div align="center">
+
 <a href="https://github.com/yashjha140/EduPro-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha140&repo=EduPro-AI&theme=merko&hide_border=true" alt="EduPro AI repository card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashjha140&repo=EduPro-AI&theme=merko&hide_border=true" alt="EduPro AI repository card" />
 </a>
+
 <p>Educational software project focused on improving educational processes.</p>
 </div>
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">💡 More Projects Coming Soon</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Building-My_Next_Project-00FF7F?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Building-My_Next_Project-00FF7F?style=for-the-badge&logo=github&logoColor=black" alt="Building next project" />
+
 <p>Exploring new ideas and developing practical applications.</p>
 </div>
 </td>
@@ -79,9 +83,13 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjha140&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/yashjha140">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjha140&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha140&layout=compact&theme=merko&hide_border=true" />
+<a href="https://github.com/yashjha140">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha140&layout=compact&theme=merko&hide_border=true" alt="Most Used Languages" />
+</a>
 
 </div>
 
@@ -91,7 +99,7 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashjha140&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=yashjha140&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -101,7 +109,7 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yashjha140&theme=merko&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=yashjha140&theme=merko&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -111,7 +119,7 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contributions"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contributions" />
 
 </div>
 
@@ -122,9 +130,9 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg" width="100%"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -135,7 +143,7 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjha140&theme=merko&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjha140&theme=merko&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
@@ -146,10 +154,10 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 <div align="center">
 
 <a href="https://github.com/yashjha140">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
-<!-- Add your LinkedIn profile link here -->
+<!-- Add your LinkedIn profile URL here when available -->
 
 </div>
 
