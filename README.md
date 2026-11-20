@@ -1,22 +1,18 @@
-<!-- ================= HEADER ================= -->
-
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yash+Jha+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Full+Stack+Development+Enthusiast;Building+Ideas+Into+Reality!" alt="Typing SVG" />
 
 <h3>💻 Aspiring Software Developer | MCA Student | Tech Enthusiast</h3>
 
-<img src="https://komarev.com/ghpvc/?username=yashjha140&label=PROFILE+VIEWS&color=00FF7F&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yashjha140&label=PROFILE+VIEWS&color=00FF7F&style=for-the-badge" />
 
 <a href="https://github.com/yashjha140">
-<img src="https://img.shields.io/github/followers/yashjha140?label=Followers&style=for-the-badge&color=00FF7F&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/yashjha140?label=Followers&style=for-the-badge&color=00FF7F&logo=github" />
 </a>
 
 </div>
 
 ---
-
-<!-- ================= ABOUT ================= -->
 
 ## 🟢 About Me
 
@@ -30,8 +26,6 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 - 🎯 Aspiring to become a professional software developer
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Tech Stack & Technologies
 
@@ -55,8 +49,6 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
 ## 🚀 Featured Projects
 
 <table>
@@ -70,75 +62,105 @@ Hello! I'm **Yash Jha**, an MCA student passionate about technology, programming
 <p>Educational software project focused on improving educational processes.</p>
 </div>
 </td>
+
 <td width="50%">
 <h3 align="center">💡 More Projects Coming Soon</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Building-My_Next_Project-00FF7F?style=for-the-badge&logo=github&logoColor=black"/>
+<p>Exploring new ideas and developing practical applications.</p>
+</div>
+</td>
+</tr>
+</table>
 
-name: Generate Contribution Snake
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+## 📊 GitHub Statistics
 
-permissions:
-  contents: write
+<div align="center">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjha140&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" />
 
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: yashjha140
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjha140&layout=compact&theme=merko&hide_border=true" />
 
-      - name: Publish snake animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
 
-name: GitHub Profile 3D Contributions
+---
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+## 🏆 GitHub Trophies
 
-permissions:
-  contents: write
+<div align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<img src="https://github-profile-trophy.vercel.app/?username=yashjha140&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
+</div>
 
-      - name: Generate 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: yashjha140
+---
 
-      - name: Commit generated images
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "Update 3D contribution calendar"; then
-            git push
-          fi
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashjha140&theme=merko&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contributions"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yashjha140/yashjha140/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjha140&theme=merko&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/yashjha140">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+<!-- Add your LinkedIn profile link here -->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💚 Code. Learn. Build. Repeat.
+
+**Thanks for visiting my GitHub profile!**
+
+⭐ If you like my work, consider following me.
+
+</div>
