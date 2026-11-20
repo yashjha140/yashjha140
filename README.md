@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yash Jha 👋
 
-<!--
-**yashjha140/yashjha140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm an MCA student at Vivekananda Institute of Professional Studies (VIPS), affiliated with GGSIPU, passionate about software development and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MCA Student (2025–2027)
+- 💻 Interested in Software Development and Full Stack Development
+- 🌱 Currently improving my programming and problem-solving skills
+- 🚀 Working on projects like **EduPro AI**
+- 🎯 Goal: To become a skilled software developer and build impactful applications.
+
+### 🛠️ Technical Skills
+
+- **Languages:** C, JavaScript, Python
+- **Web Technologies:** HTML, CSS
+- **Database:** SQL
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+**EduPro AI**
+- An educational project focused on simplifying educational processes.
+- Technologies: Python and web development tools.
+
+### 🎓 Education
+
+- Master of Computer Applications (MCA) – VIPS, GGSIPU (2025–2027)
+- Bachelor of Computer Applications (BCA) – GGSIPU (2025)
+
+### 📫 Connect With Me
+
+- GitHub: [@yashjha140](https://github.com/yashjha140)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
